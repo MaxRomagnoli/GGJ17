@@ -15,7 +15,7 @@ Your task is to move a floating bottle, generating waves by clicking the screen.
 - Android (sdk)
 
 ## Tools And Technologies:
-- Unity
+- Unity 3D
 
 ## Tags 
 - 3D
