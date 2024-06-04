@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f0af9ccf7a4e2de4ba487272cb62152d
+timeCreated: 1485106913
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Folkard
+  fontNames:
+  - Folkard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
